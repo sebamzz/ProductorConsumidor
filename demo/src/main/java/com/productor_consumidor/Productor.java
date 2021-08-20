@@ -1,4 +1,5 @@
 package main.java.com.productor_consumidor;
-public class GestorDeMonitor {
+
+public class Productor implements Runnable {
 
 }
